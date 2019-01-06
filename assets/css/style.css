@@ -1,0 +1,37 @@
+body {
+    background: url("../imgs/the-heart-of-italy-toscany.jpg") no-repeat fixed center;
+    background-size: cover;
+}
+.delete {
+    color: red;
+}
+
+.edit {
+    color: green;
+}
+
+.bg-primary {
+    background-color:  #3fb618 !important;
+}
+
+.header {
+    font-weight: bold;
+}
+
+.form-control {
+    background: rgb(248, 232, 140);
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+    background-color: #ce2b37;
+    color: white;
+    padding: 20px 0 0 20px;
+    align-items: center;
+
+    }
