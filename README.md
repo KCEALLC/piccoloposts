@@ -38,7 +38,7 @@ Uses JSON server to mimic a database. You can install and run your own server to
 ### Author
 
 KCEALLC
-[KC English Academy,LLC](http://www.kcenglishacademy.com)
+[KC English Academy,LLC]
 
 ### License
 
