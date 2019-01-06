@@ -36,9 +36,8 @@ $ npm run build
 Uses JSON server to mimic a database. You can install and run your own server to connect to an API.
 
 ### Author
-
 KCEALLC
-[KC English Academy,LLC]
+
 
 ### License
 
